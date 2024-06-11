@@ -38,7 +38,8 @@ private-package-boilerplate/
 │   ├── services/
 │   │   ├── exampleService.ts
 │   └── types/
-│       ├── exampleType.ts
+│   │   ├── exampleType.ts
+│   ├── utils/
 ├── tests/
 │   ├── exampleService.test.ts
 ├── .eslintrc.json
